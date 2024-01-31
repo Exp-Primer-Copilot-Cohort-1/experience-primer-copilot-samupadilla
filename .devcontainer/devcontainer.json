@@ -7,8 +7,5 @@
                 "GitHub.copilot"
             ]
         }
-    },
-    "remote.extensionKind": {
-        "GitHub.copilot": ["ui"],
-    },
+    }    
 }
